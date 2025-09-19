@@ -65,9 +65,5 @@ I'm a Software Engineer at CrewLAB with a Master's degree in Data Science from N
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 
-## 🎵 Currently Listening To:
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/liam5665)
-
 ## 📫 How to reach me:
 - LinkedIn: [linkedin.com/in/lrdoc](https://linkedin.com/in/lrdoc)
