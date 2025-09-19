@@ -1,4 +1,4 @@
-# Hello! I'm Liam O'Connor
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Liam%20O'Connor&fontSize=50&fontColor=fff&animation=twinkling&desc=Software%20Engineer%20at%20CrewLAB%20%7C%20Data%20Science%20Master's&descAlignY=75&descAlign=50)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-crewlab.io-blue?style=flat&logo=google-chrome)](https://crewlab.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Liam%20O'Connor-blue?style=flat&logo=linkedin)](https://linkedin.com/in/lrdoc) [![Spotify](https://img.shields.io/badge/Spotify-liam5665-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/liam5665)
 
