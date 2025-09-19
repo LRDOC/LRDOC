@@ -2,33 +2,44 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-crewlab.io-blue?style=flat&logo=google-chrome)](https://crewlab.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Liam%20O'Connor-blue?style=flat&logo=linkedin)](https://linkedin.com/in/lrdoc) [![Spotify](https://img.shields.io/badge/Spotify-liam5665-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/liam5665)
 
-I'm a Software Engineer at CrewLAB with a Master's degree in Data Science from Northeastern University. 
+I'm a Software Engineer at CrewLAB with a Master's degree in Data Science from Northeastern University.
 
 ## Experience Highlights:
 
-• **Software Engineer at CrewLAB:** Developing full stack solutions across mobile (iOS/Android), web, and backend systems while collaborating with cross-functional teams.
+• **Software Engineer at CrewLAB:** Developing full stack solutions across mobile (iOS/Android), web, and backend
+systems while collaborating with cross-functional teams.
 
-• **Master's in Data Science (2025):** Completed comprehensive coursework in machine learning, natural language processing, algorithms, and data management with a 3.9 GPA.
+• **Master's in Data Science (2025):** Completed comprehensive coursework in machine learning, natural language
+processing, algorithms, and data management with a 3.9 GPA.
 
-• **Cross-Platform Development:** Proficient in Flutter and Dart for creating responsive applications across iOS, Android, and web platforms.
+• **Cross-Platform Development:** Proficient in Flutter and Dart for creating responsive applications across iOS,
+Android, and web platforms.
 
-• **Data Analytics & Engineering:** Experienced in BigQuery for large-scale data processing and Google Looker Studio for creating compelling data visualizations and dashboards.
+• **Data Analytics & Engineering:** Experienced in BigQuery for large-scale data processing and Google Looker Studio for
+creating compelling data visualizations and dashboards.
 
-• **Machine Learning Expertise:** Proficient in supervised/unsupervised learning, NLP, and implementing ML algorithms for real-world applications.
+• **Machine Learning Expertise:** Proficient in supervised/unsupervised learning, NLP, and implementing ML algorithms
+for real-world applications.
 
 ## What I'm Working On:
 
-📱 **Mobile Development:** Building cross-platform applications using Flutter and Dart, creating seamless user experiences across iOS, Android, and Web platforms.
+📱 **Mobile Development:** Building cross-platform applications using Flutter and Dart, creating seamless user
+experiences across iOS, Android, and Web platforms.
 
-🤖 **Machine Learning & Data Science:** Applying supervised and unsupervised learning techniques, natural language processing, and advanced analytics to extract insights from data.
+🤖 **Machine Learning & Data Science:** Applying supervised and unsupervised learning techniques, natural language
+processing, and advanced analytics to extract insights from data.
 
-💻 **Full Stack Development:** Contributing to innovative projects at CrewLAB, developing scalable frontend and backend solutions across diverse tech stacks.
+💻 **Full Stack Development:** Contributing to innovative projects at CrewLAB, developing scalable frontend and backend
+solutions across diverse tech stacks.
 
-📊 **Data Engineering & Analytics:** Working with BigQuery for large-scale data processing and creating insightful dashboards using Google Looker Studio.
+📊 **Data Engineering & Analytics:** Working with BigQuery for large-scale data processing and creating insightful
+dashboards using Google Looker Studio.
 
-🧠 **AI & Algorithms:** Implementing advanced algorithms and exploring cutting-edge techniques in computer-human interaction and data management.
+🧠 **AI & Algorithms:** Implementing advanced algorithms and exploring cutting-edge techniques in computer-human
+interaction and data management.
 
-🔌 **MCP Integrations:** Building practical Model Context Protocol servers for Spotify, Chrome automation, Mac system control, Figma design workflows, and Atlassian/Jira project management to streamline development workflows.
+🔌 **MCP Integrations:** Building practical Model Context Protocol servers for Spotify, Chrome automation, Mac system
+control, Figma design workflows, and Atlassian/Jira project management to streamline development workflows.
 
 ## Languages & Tools:
 
@@ -64,6 +75,9 @@ I'm a Software Engineer at CrewLAB with a Master's degree in Data Science from N
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-
 ## 📫 How to reach me:
+
 - LinkedIn: [linkedin.com/in/lrdoc](https://linkedin.com/in/lrdoc)
+
+
+<!-- SPOTIFY-PLAYING:START --> <!-- SPOTIFY-PLAYING:END -->
